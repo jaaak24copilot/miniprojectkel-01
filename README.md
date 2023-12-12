@@ -18,16 +18,16 @@ Tujuan dari proyek ini adalah untuk
 6. Peningkatan Efisiensi Budidaya
 
 ## List Fitur
-**Super Admin**
+*Super Admin*
 - login
 - Dapat mengelola admin di setiap daerah (CRUD) *menggunakan api verifikasi email
 - Kelola pelanggan yang akan sewa alat (melihat pembayaran, mengkonfirmasi pemasangan)
 - Melihat pengaduan (melihat data pengaduan, memproses pengaduan)
-**Admin**
+*Admin*
 - login *menggunakan api verifikasi email
 - Kelola pelanggan yang akan sewa alat (melihat pembayaran, mengkonfirmasi pemasangan)
 - Melihat pengaduan (melihat data pengaduan, memproses pengaduan)
-**User**
+*User*
 - login *menggunakan api verifikasi email
 - register *menggunakan api verifikasi email
 - forget password *menggunakan api verifikasi email
