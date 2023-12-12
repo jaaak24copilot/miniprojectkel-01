@@ -38,4 +38,4 @@ Tujuan dari proyek ini adalah untuk
 - notifikasi (melihat notifikasi dan peringatan)
 
 ## Screen Capture Gambar Schema Project Dari Database
-- ![Schema Project Database](public/img/Schema%20Database.png)
+![Schema Project Database](public/img/Schema%20Database.png)
