@@ -42,3 +42,7 @@ Tujuan dari proyek ini adalah untuk
 
 ## Screen Recorder Demo Penjelasan Website
 ![Schema Project Database](public/img/Kelompok%201%20-%20DPLAT.mp4)
+<video width="640" height="360" controls>
+  <source src="public/img/Kelompok 1 - DPLAT.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
