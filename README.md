@@ -40,9 +40,5 @@ Tujuan dari proyek ini adalah untuk
 ## Screen Capture Gambar Schema Project Dari Database
 ![Schema Project Database](public/img/Schema%20Database.png)
 
-## Screen Recorder Demo Penjelasan Website
-![Schema Project Database](public/img/Kelompok%201%20-%20DPLAT.mp4)
-<video width="640" height="360" controls>
-  <source src="public/img/Kelompok 1 - DPLAT.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Screen Recorder Demo - Penjelasan Website
+[![Screen Recorder Demo Penjelasan Website](https://drive.google.com/file/d/1802y256YM8GlQti2JsxwJ6Vvmqh4SF3U/preview)](https://drive.google.com/file/d/1802y256YM8GlQti2JsxwJ6Vvmqh4SF3U/preview)
