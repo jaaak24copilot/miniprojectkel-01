@@ -39,3 +39,6 @@ Tujuan dari proyek ini adalah untuk
 
 ## Screen Capture Gambar Schema Project Dari Database
 ![Schema Project Database](public/img/Schema%20Database.png)
+
+## Screen Recorder Demo Penjelasan Website
+![Schema Project Database](public/img/Kelompok%201%20-%20DPLAT.mp4)
